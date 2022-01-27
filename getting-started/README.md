@@ -10,7 +10,7 @@ authorName: 'Serverless, inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
->> The companion blog post for this getting started example can be found here: https://www.serverless.com/blog/getting-started-with-serverless-framework
+> The companion blog post for this getting started example can be found here: https://www.serverless.com/blog/getting-started-with-serverless-framework
 
 # Serverless Framework Node HTTP API on AWS
 
