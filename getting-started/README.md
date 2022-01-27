@@ -1,14 +1,16 @@
 <!--
-title: 'AWS Simple HTTP Endpoint example in NodeJS'
-description: 'This template demonstrates how to make a simple HTTP API with Node.js running on AWS Lambda and API Gateway using the Serverless Framework.'
+title: 'Getting Started'
+description: 'This template demonstrates how to make a simple HTTP API with Node.js running on AWS Lambda, API Gateway and DynamoDB using the Serverless Framework.'
 layout: Doc
-framework: v2
+framework: v3
 platform: AWS
 language: nodeJS
 authorLink: 'https://github.com/serverless'
 authorName: 'Serverless, inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
+
+>> The companion blog post for this getting started example can be found here: https://www.serverless.com/blog/getting-started-with-serverless-framework
 
 # Serverless Framework Node HTTP API on AWS
 
